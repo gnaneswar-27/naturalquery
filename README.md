@@ -24,5 +24,5 @@ GROQ_API_KEY=[your-openai-api-key]
 To launch the Streamlit app and interact with the chatbot:
 
 ```bash
-streamlit run app.py
+streamlit run src/app.py
 ```
